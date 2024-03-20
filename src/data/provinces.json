@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "name": "กรุงเทพมหานคร",
+    "latitude": 13.757,
+    "longitude": 100.555
+  },
+  {
+    "id": 2,
+    "name": "สมุทรปราการ",
+    "latitude": 13.618,
+    "longitude": 100.659
+  },
+  {
+    "id": 3,
+    "name": "นนทบุรี",
+    "latitude": 13.892,
+    "longitude": 100.432
+  },
+  {
+    "id": 4,
+    "name": "ปทุมธานี",
+    "latitude": 14.048,
+    "longitude": 100.63
+  },
+  {
+    "id": 5,
+    "name": "พระนครศรีอยุธยา",
+    "latitude": 14.374,
+    "longitude": 100.532
+  },
+  {
+    "id": 6,
+    "name": "อ่างทอง",
+    "latitude": 14.613,
+    "longitude": 100.382
+  },
+  {
+    "id": 7,
+    "name": "ลพบุรี",
+    "latitude": 15.033,
+    "longitude": 100.801
+  },
+  {
+    "id": 8,
+    "name": "สิงห์บุรี",
+    "latitude": 14.887,
+    "longitude": 100.359
+  },
+  {
+    "id": 9,
+    "name": "ชัยนาท",
+    "latitude": 15.151,
+    "longitude": 100.08
+  },
+  {
+    "id": 10,
+    "name": "สระบุรี",
+    "latitude": 14.558,
+    "longitude": 100.891
+  },
+  {
+    "id": 11,
+    "name": "ชลบุรี",
+    "latitude": 13.155,
+    "longitude": 101.067
+  },
+  {
+    "id": 12,
+    "name": "ระยอง",
+    "latitude": 12.777,
+    "longitude": 101.418
+  },
+  {
+    "id": 13,
+    "name": "จันทบุรี",
+    "latitude": 12.683,
+    "longitude": 102.114
+  },
+  {
+    "id": 14,
+    "name": "ตราด",
+    "latitude": 12.115,
+    "longitude": 102.494
+  },
+  {
+    "id": 15,
+    "name": "ฉะเชิงเทรา",
+    "latitude": 13.682,
+    "longitude": 101.143
+  },
+  {
+    "id": 16,
+    "name": "ปราจีนบุรี",
+    "latitude": 14.001,
+    "longitude": 101.535
+  },
+  {
+    "id": 17,
+    "name": "นครนายก",
+    "latitude": 14.184,
+    "longitude": 101.131
+  },
+  {
+    "id": 18,
+    "name": "สระแก้ว",
+    "latitude": 13.726,
+    "longitude": 102.339
+  },
+  {
+    "id": 19,
+    "name": "นครราชสีมา",
+    "latitude": 15.084,
+    "longitude": 102.198
+  },
+  {
+    "id": 20,
+    "name": "บุรีรัมย์",
+    "latitude": 14.891,
+    "longitude": 102.973
+  },
+  {
+    "id": 21,
+    "name": "สุรินทร์",
+    "latitude": 14.934,
+    "longitude": 103.671
+  },
+  {
+    "id": 22,
+    "name": "ศรีสะเกษ",
+    "latitude": 14.939,
+    "longitude": 104.328
+  },
+  {
+    "id": 23,
+    "name": "อุบลราชธานี",
+    "latitude": 15.275,
+    "longitude": 105.023
+  },
+  {
+    "id": 24,
+    "name": "ยโสธร",
+    "latitude": 15.838,
+    "longitude": 104.305
+  },
+  {
+    "id": 25,
+    "name": "ชัยภูมิ",
+    "latitude": 15.975,
+    "longitude": 101.937
+  },
+  {
+    "id": 26,
+    "name": "อำนาจเจริญ",
+    "latitude": 15.858,
+    "longitude": 104.707
+  },
+  {
+    "id": 27,
+    "name": "หนองบัวลำภู",
+    "latitude": 17.179,
+    "longitude": 102.312
+  },
+  {
+    "id": 28,
+    "name": "ขอนแก่น",
+    "latitude": 16.355,
+    "longitude": 102.597
+  },
+  {
+    "id": 29,
+    "name": "อุดรธานี",
+    "latitude": 17.408,
+    "longitude": 102.888
+  },
+  {
+    "id": 30,
+    "name": "เลย",
+    "latitude": 17.412,
+    "longitude": 101.645
+  },
+  {
+    "id": 31,
+    "name": "หนองคาย",
+    "latitude": 17.915,
+    "longitude": 102.797
+  },
+  {
+    "id": 32,
+    "name": "มหาสารคาม",
+    "latitude": 15.992,
+    "longitude": 103.187
+  },
+  {
+    "id": 33,
+    "name": "ร้อยเอ็ด",
+    "latitude": 15.94,
+    "longitude": 103.801
+  },
+  {
+    "id": 34,
+    "name": "กาฬสินธุ์",
+    "latitude": 16.59,
+    "longitude": 103.613
+  },
+  {
+    "id": 35,
+    "name": "สกลนคร",
+    "latitude": 17.398,
+    "longitude": 103.83
+  },
+  {
+    "id": 36,
+    "name": "นครพนม",
+    "latitude": 17.312,
+    "longitude": 104.482
+  },
+  {
+    "id": 37,
+    "name": "มุกดาหาร",
+    "latitude": 16.539,
+    "longitude": 104.561
+  },
+  {
+    "id": 38,
+    "name": "เชียงใหม่",
+    "latitude": 18.857,
+    "longitude": 98.917
+  },
+  {
+    "id": 39,
+    "name": "ลำพูน",
+    "latitude": 18.346,
+    "longitude": 98.959
+  },
+  {
+    "id": 40,
+    "name": "ลำปาง",
+    "latitude": 18.34,
+    "longitude": 99.502
+  },
+  {
+    "id": 41,
+    "name": "อุตรดิตถ์",
+    "latitude": 17.639,
+    "longitude": 100.327
+  },
+  {
+    "id": 42,
+    "name": "แพร่",
+    "latitude": 18.162,
+    "longitude": 100.099
+  },
+  {
+    "id": 43,
+    "name": "น่าน",
+    "latitude": 18.88,
+    "longitude": 100.807
+  },
+  {
+    "id": 44,
+    "name": "พะเยา",
+    "latitude": 19.288,
+    "longitude": 100.094
+  },
+  {
+    "id": 45,
+    "name": "เชียงราย",
+    "latitude": 19.883,
+    "longitude": 99.919
+  },
+  {
+    "id": 46,
+    "name": "แม่ฮ่องสอน",
+    "latitude": 18.754,
+    "longitude": 98.053
+  },
+  {
+    "id": 47,
+    "name": "นครสวรรค์",
+    "latitude": 15.679,
+    "longitude": 100.186
+  },
+  {
+    "id": 48,
+    "name": "อุทัยธานี",
+    "latitude": 15.371,
+    "longitude": 99.793
+  },
+  {
+    "id": 49,
+    "name": "กำแพงเพชร",
+    "latitude": 16.368,
+    "longitude": 99.65
+  },
+  {
+    "id": 50,
+    "name": "ตาก",
+    "latitude": 16.849,
+    "longitude": 98.832
+  },
+  {
+    "id": 51,
+    "name": "สุโขทัย",
+    "latitude": 17.156,
+    "longitude": 99.795
+  },
+  {
+    "id": 52,
+    "name": "พิษณุโลก",
+    "latitude": 16.876,
+    "longitude": 100.38
+  },
+  {
+    "id": 53,
+    "name": "พิจิตร",
+    "latitude": 16.258,
+    "longitude": 100.357
+  },
+  {
+    "id": 54,
+    "name": "เพชรบูรณ์",
+    "latitude": 16.276,
+    "longitude": 101.112
+  },
+  {
+    "id": 55,
+    "name": "ราชบุรี",
+    "latitude": 13.601,
+    "longitude": 99.798
+  },
+  {
+    "id": 56,
+    "name": "กาญจนบุรี",
+    "latitude": 14.233,
+    "longitude": 99.434
+  },
+  {
+    "id": 57,
+    "name": "สุพรรณบุรี",
+    "latitude": 14.54,
+    "longitude": 100.009
+  },
+  {
+    "id": 58,
+    "name": "นครปฐม",
+    "latitude": 13.875,
+    "longitude": 100.122
+  },
+  {
+    "id": 59,
+    "name": "สมุทรสาคร",
+    "latitude": 13.587,
+    "longitude": 100.218
+  },
+  {
+    "id": 60,
+    "name": "สมุทรสงคราม",
+    "latitude": 13.43,
+    "longitude": 99.955
+  },
+  {
+    "id": 61,
+    "name": "เพชรบุรี",
+    "latitude": 13.044,
+    "longitude": 99.875
+  },
+  {
+    "id": 62,
+    "name": "ประจวบคีรีขันธ์",
+    "latitude": 11.885,
+    "longitude": 99.669
+  },
+  {
+    "id": 63,
+    "name": "นครศรีธรรมราช",
+    "latitude": 8.348,
+    "longitude": 99.861
+  },
+  {
+    "id": 64,
+    "name": "กระบี่",
+    "latitude": 8.014,
+    "longitude": 98.933
+  },
+  {
+    "id": 65,
+    "name": "พังงา",
+    "latitude": 8.644,
+    "longitude": 98.277
+  },
+  {
+    "id": 66,
+    "name": "ภูเก็ต",
+    "latitude": 7.891,
+    "longitude": 98.366
+  },
+  {
+    "id": 67,
+    "name": "สุราษฎร์ธานี",
+    "latitude": 9.228,
+    "longitude": 99.402
+  },
+  {
+    "id": 68,
+    "name": "ระนอง",
+    "latitude": 9.836,
+    "longitude": 98.572
+  },
+  {
+    "id": 69,
+    "name": "ชุมพร",
+    "latitude": 10.337,
+    "longitude": 99.185
+  },
+  {
+    "id": 70,
+    "name": "สงขลา",
+    "latitude": 7.117,
+    "longitude": 100.519
+  },
+  {
+    "id": 71,
+    "name": "สตูล",
+    "latitude": 6.698,
+    "longitude": 99.731
+  },
+  {
+    "id": 72,
+    "name": "ตรัง",
+    "latitude": 7.478,
+    "longitude": 99.557
+  },
+  {
+    "id": 73,
+    "name": "พัทลุง",
+    "latitude": 7.543,
+    "longitude": 100.066
+  },
+  {
+    "id": 74,
+    "name": "ปัตตานี",
+    "latitude": 6.755,
+    "longitude": 101.36
+  },
+  {
+    "id": 75,
+    "name": "ยะลา",
+    "latitude": 6.382,
+    "longitude": 101.263
+  },
+  {
+    "id": 76,
+    "name": "นราธิวาส",
+    "latitude": 6.231,
+    "longitude": 101.751
+  },
+  {
+    "id": 77,
+    "name": "บึงกาฬ",
+    "latitude": 18.159,
+    "longitude": 103.676
+  }
+]
